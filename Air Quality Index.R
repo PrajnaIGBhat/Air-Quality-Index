@@ -1,4 +1,4 @@
-d=read.csv("Prajna project.csv",header=TRUE);d
+d=read.csv("AQI .csv",header=TRUE);d
 attach(d)
 
 head(d,1)
